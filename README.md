@@ -1,3 +1,5 @@
+Link Deploy Streamlit Manual Prediction : https://ecommercechurnprediction2.streamlit.app/
+
 # E-Commerce Churn Prediction Project  
 
 This repository contains the implementation of a machine learning project focused on predicting customer churn in an e-commerce setting. The aim is to help businesses identify customers at risk of leaving and take proactive steps to retain them, thereby boosting customer loyalty and maximizing profitability.  
