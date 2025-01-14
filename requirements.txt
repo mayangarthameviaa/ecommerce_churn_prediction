@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+missingno
+scikit-learn
+imblearn
+category-encoders
+xgboost
+lightgbm
+shap
+streamlit
