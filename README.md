@@ -41,20 +41,16 @@ The following steps outline the analytical process:
 4. **Model Development**: Train baseline and advanced models using Logistic Regression, Random Forest, and other classifiers.  
 5. **Hyperparameter Tuning**: Optimize models for better performance.  
 6. **Evaluation**: Use metrics like Confusion Matrix, ROC-AUC, and F2 Score to assess performance.  
-7. **Explainable ML**: Employ SHAP and LIME for interpretability of model predictions.  
+7. **Explainable ML**: Employ SHAP for interpretability of model predictions.  
 8. **Recommendations**: Propose actionable strategies to reduce churn based on findings.  
 
 ---
 
 ### **4. Metrics Evaluation**  
 
-- **Primary Metric**: F2 Score  
+- **F2 Score**
   - Focus on reducing False Negatives (FN), as they lead to lost customers and revenue.  
-  - Maintain reasonable control over False Positives (FP) to optimize promotional costs.  
-
-- **Other Metrics**:  
-  - Recall: High priority to capture true churn cases.  
-  - Precision: To manage costs effectively.  
+  - Maintain reasonable control over False Positives (FP) to optimize promotional costs. 
 
 ---
 
